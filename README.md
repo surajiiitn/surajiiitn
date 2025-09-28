@@ -37,19 +37,19 @@
   <img src="https://leetcard.jacoblin.cool/SurajShewale54?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-@surajiiitn-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Surajshewale54/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-@SurajShewale54-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Surajshewale54/)
 
 ---
 
 ### 💻 Codeforces
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-@surajiiitn-1500%2B-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/suraj654)
+[![Codeforces](https://img.shields.io/badge/Codeforces-@suraj654-1500%2B-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/suraj654)
 
 ---
 
 ### 🍽 CodeChef
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-@surajiiitn-3★%20(1450)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/sura3929)
+[![CodeChef](https://img.shields.io/badge/CodeChef-@sura3929-1★%20(1285)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/sura3929)
 
 ---
 
