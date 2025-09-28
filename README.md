@@ -5,60 +5,59 @@
 
 ### 🚀 About Me
 
-- 💻 I love building full-stack web applications  
-- 🧠 Currently learning **Data Structures & Algorithms** and practicing **Competitive Programming**
-- 🌱 Exploring backend frameworks like **Flask** and **Express.js**
-- 🔭 Always open to **collaborating on interesting projects**
+- 💻 Full Stack Developer with experience in MERN stack, Flask, PHP
+- 📘 Currently learning **Data Structures & Algorithms**
+- ⚔️ Practicing **Competitive Programming** on LeetCode, Codeforces, and CodeChef
+- 🌱 Exploring low-level programming with C/C++
+- 🤝 Always open to collaboration
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Skill badges -->
 </p>
 
 ---
 
-### 📊 GitHub Contributions Heatmap
+### 📘 Currently Learning
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/surajiiitn" alt="Suraj's Github chart" />
-</p>
+- ✅ Data Structures & Algorithms  
+- ✅ Competitive Programming (LeetCode / Codeforces / CodeChef)  
+- ✅ Backend with Flask & Node.js
 
-> 🔥 This chart shows your **GitHub contributions heatmap** over the year
+---
+
+### 💡 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-@surajiiitn-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/surajiiitn/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-🟦%201500?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/surajiiitn)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★%20(1450)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/surajiiitn)
+
+---
+
+### 📊 GitHub Stats
+
+<!-- GitHub cards -->
+
+---
+
+### 🏆 Trophies & Heatmap
+
+<!-- Trophies + GitHub heatmap -->
+
+---
+
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/surajiiitn?theme=dark&font=baloo)
 
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: surajshewale654@gmail.com
-
----
-
-### 📌 Currently Learning
-
-- 📘 **Data Structures & Algorithms**  
-- 🧠 **Competitive Programming** (on platforms like LeetCode, Codeforces, etc.)
-
----
-
-### 📁 Featured Projects
-
-- [Zerodha Clone – Frontend](https://github.com/surajiiitn/frontend)
-- [Backend Services (Coming soon)](https://github.com/surajiiitn/backend)
+<!-- LinkedIn / Email -->
 
 ---
 
