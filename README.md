@@ -41,17 +41,16 @@
 
 ---
 
-### 💻 Codeforces
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-@suraj654-%7E1250-blue?style=for-the-badge)](https://codeforces.com/profile/suraj654)
-
----
-
-### 🍽 CodeChef
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-@sura3929-2_Star_1285-brown?style=for-the-badge)](https://www.codechef.com/users/sura3929)
-
-
+<table>
+  <tr>
+    <td><strong>Codeforces</strong></td>
+    <td><a href="https://codeforces.com/profile/suraj654">https://codeforces.com/profile/suraj654</a></td>
+  </tr>
+  <tr>
+    <td><strong>CodeChef</strong></td>
+    <td><a href="https://www.codechef.com/users/sura3929">https://www.codechef.com/users/sura3929</a></td>
+  </tr>
+</table>
 ---
 
 ### 📫 Contact Me
