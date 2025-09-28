@@ -39,7 +39,14 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-@SurajShewale54-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Surajshewale54/)
 
----
+<hr/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=surajiiitn&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<hr/>
 
 <table>
   <tr>
