@@ -43,13 +43,13 @@
 
 ### 💻 Codeforces
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-@surajiiitn-1500%2B-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/surajiiitn)
+[![Codeforces](https://img.shields.io/badge/Codeforces-@surajiiitn-1500%2B-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/suraj654)
 
 ---
 
 ### 🍽 CodeChef
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-@surajiiitn-3★%20(1450)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/surajiiitn)
+[![CodeChef](https://img.shields.io/badge/CodeChef-@surajiiitn-3★%20(1450)-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/sura3929)
 
 ---
 
