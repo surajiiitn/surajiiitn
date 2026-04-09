@@ -34,10 +34,10 @@
 ### 📘 LeetCode Profile (Detailed)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SurajShewale54?theme=dark&font=baloo" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Suraj54?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-@SurajShewale54-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Suraj54/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-@Suraj54-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Suraj54/)
 
 <hr/>
 
