@@ -37,7 +37,7 @@
   <img src="https://leetcard.jacoblin.cool/SurajShewale54?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-@SurajShewale54-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Surajshewale54/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-@SurajShewale54-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Suraj54/)
 
 <hr/>
 
